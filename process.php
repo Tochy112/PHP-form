@@ -16,7 +16,7 @@
         rFile( $myFile, "Phone number:".$_POST['num']."\n");
         rFile( $myFile, "Address:".$_POST['add']."\n"."\n");
         
-        header("Location: index.php");
+        header("Location: index.html");
         echo 'submitted successfully';
 
     }else{
