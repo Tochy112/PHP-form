@@ -4,10 +4,10 @@ This is for Fetching information a user inputs in a form and saving them in a .d
 
 I used the following functions:
 
-###`fopen()` with the append action,
+`fopen()` with the append action,
 
-###`*fwrite()`,
+`fwrite()`
 
-###`fclose()`.
+`fclose()`.
 
 
